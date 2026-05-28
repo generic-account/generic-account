@@ -1,6 +1,16 @@
-Welcome! I’m an MIT sophomore studying Electrical Engineering & Computer Science (6-5) and Mathematics (18), minoring in Linguistics (24). I focus on programming languages and computer architecture, with interests in performance engineering, compilers, ML, and numerical methods. I like making Python eDSLs, and I’ve recently gotten slightly obsessed with Asahi Linux, microarchitecture reverse engineering, and Apple silicon.
+## Welcome!
 
-Outside of school I enjoy language learning, amateur radio, music, nature, and readin
+I’m an MIT sophomore studying Electrical Engineering & Computer Science (6-5) and Mathematics (18), minoring in Linguistics (24). I focus on programming languages and computer architecture, with interests in performance engineering, compilers, ML, and numerical methods. I like making Python eDSLs, and I’ve recently gotten slightly obsessed with Asahi Linux, microarchitecture reverse engineering, and Apple silicon.
+
+Outside of school I enjoy language learning, amateur radio, music, nature, and reading.
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=generic-account&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=generic-account&layout=compact&theme=tokyonight)
+
+## Leetcode Heatmap
 
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/glichtstein?ext=heatmap)](https://leetcode.com/u/glichtstein/)
 
