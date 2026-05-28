@@ -1,4 +1,6 @@
-## Hi there 👋
+## LeetCode Activity
+
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/glichtstein?ext=heatmap)](https://leetcode.com/u/glichtstein/)
 
 <!--
 **generic-account/generic-account** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
