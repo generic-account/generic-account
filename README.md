@@ -4,12 +4,6 @@ I’m an MIT sophomore studying Electrical Engineering & Computer Science (6-5) 
 
 Outside of school I enjoy language learning, amateur radio, music, nature, and reading.
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=generic-account&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=generic-account&layout=compact&theme=tokyonight)
-
 ## Leetcode Heatmap
 
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/glichtstein?ext=heatmap)](https://leetcode.com/u/glichtstein/)
